@@ -10,8 +10,6 @@ It showcases my **skills**, **projects**, and **contact details** in a clean and
 - ⚛️ Next.js 14 (App Router)
 - 🎨 Tailwind CSS
 - 💻 TypeScript
-- ☀️ Dark/Light Mode Support
-- 📦 Vercel Hosting
 
 ---
 
